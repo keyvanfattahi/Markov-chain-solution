@@ -1,3 +1,5 @@
+The coding of this program is developed with Python and the Streamlit library.
+
 A Markov chain is a random process where the current state depends only on the previous state, meaning that the probability of a new state occurring is only dependent on the current state and not influenced by previous states.
 
 In a Markov chain model, the current state is typically represented by a given state. For example, in a game of chess, the current state would be represented by the position of the pieces on the board and the conditions for moving them. Each new move is predicted by the Markov chain and, due to its dependency on the previous state, is known as a Markov chain.
